@@ -1,0 +1,17 @@
+h1{
+    color:beige;
+}
+p{
+      color:rgb(240, 233, 233);
+      font-size:large;
+}
+body {
+    background-image: url('mb.jpg');
+    background-size: cover;
+  }
+  button{
+      background-color: aqua;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
